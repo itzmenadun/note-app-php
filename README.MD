@@ -60,15 +60,15 @@ npm run dev
 
 ### Database Setup
 
-1. Create a MySQL database for the project.
+1. Create a MySQL database for the project name-testleaf.
 
 2. Import the SQL file using phpMyAdmin or the MySQL command line:
 
--   phpMyAdmin: Import the database.sql file through the phpMyAdmin interface.
+-   phpMyAdmin: Import the testleaf.sql file through the phpMyAdmin interface.
 -   Command Line:
 
 ```bash
-mysql -u root -p  < leaftest.sql
+mysql -u root -p  < testleaf.sql
 ```
 
 ### Database Setup
